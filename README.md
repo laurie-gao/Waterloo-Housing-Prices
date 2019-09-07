@@ -1,5 +1,5 @@
 # Waterloo-House-Prices
-Project includes webscraping, data visualization, and machine learning 
+Project includes webscraping and data visualization
 
 ## Webscraping
 - Webscraping information from [royallepage.ca](https://www.royallepage.ca/en/on/waterloo/properties/) is done with **BeautifulSoup** 
